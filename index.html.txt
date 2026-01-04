@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>ER:LC New York</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>🗽 ER:LC NEW YORK</h1>
+    <p>Český RP Discord server – Police | EMS | FDNY</p>
+    <a class="btn" href="https://discord.gg/TVOJ-INVITE" target="_blank">Připojit se na Discord</a>
+</header>
+
+<section>
+    <h2>📜 Pravidla</h2>
+    <ul>
+        <li>Respektuj ostatní hráče</li>
+        <li>Žádný RDM / VDM</li>
+        <li>Dodržuj RP situace</li>
+        <li>Poslouchej staff</li>
+    </ul>
+</section>
+
+<section>
+    <h2>👕 Roblox Oblečení</h2>
+    <p>(Obrázky nahrajeme později do složky images)</p>
+</section>
+
+<section>
+    <h2>📞 Kontakty</h2>
+    <p><strong>Owner:</strong> Nick#0001</p>
+    <p><strong>Admin:</strong> Nick#0002</p>
+    <p><strong>HR:</strong> Nick#0003</p>
+</section>
+
+<section>
+    <h2>🎫 Web Ticket</h2>
+    <form id="ticketForm">
+        <input type="text" placeholder="Tvoje jméno" required>
+        <input type="email" placeholder="Tvůj e-mail" required>
+        <textarea placeholder="Popis problému" required></textarea>
+        <button type="submit">Odeslat ticket</button>
+    </form>
+    <p id="ticketMsg"></p>
+</section>
+
+<section>
+    <h2>🌐 Sociální sítě</h2>
+    <a href="#">TikTok</a> |
+    <a href="#">YouTube</a> |
+    <a href="#">Instagram</a>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
